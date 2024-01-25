@@ -1,0 +1,14 @@
+.container {
+    weight: 1200px;
+    padding: 0 15px;
+    margin: 0 auto; 
+}
+.ul-div {
+    display: flex;
+}
+.li-ul:not(:last-child) {
+    margin-right: 30px;
+}
+.ul-div {
+    display: flex;
+}
